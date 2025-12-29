@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://static0.anpoimages.com/wordpress/wp-content/uploads/2022/06/what-is-google-play-hero.jpg" alt="drawing" width="500"/>
+<img src="google.avif" alt="drawing" width="500"/>
 
 </div>
 
